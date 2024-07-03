@@ -1,0 +1,10 @@
+{
+  "result": "success",
+  "msg": "",
+  "topics": [
+    {
+      "name": "testing",
+      "max_id": 438532545
+    }
+  ]
+}

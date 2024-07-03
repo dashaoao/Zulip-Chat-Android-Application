@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Coursework" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorSurface">@color/grey_light</item>
+        <item name="colorSurfaceVariant">@color/neutral_lighter</item>
+    </style>
+
+    <style name="Theme.Coursework" parent="Base.Theme.Coursework" />
+</resources>

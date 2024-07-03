@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "msg": "",
+  "events": [
+    {
+      "type": "reaction",
+      "op": "add",
+      "user_id": 708884,
+      "user": {
+        "user_id": 708884,
+        "email": "user708884@tinkoff-android-spring-2024.zulipchat.com",
+        "full_name": "Дарья Крендикова"
+      },
+      "message_id": 354368365,
+      "emoji_name": "smile",
+      "emoji_code": "1f642",
+      "reaction_type": "unicode_emoji",
+      "id": 0
+    }
+  ],
+  "queue_id": "c263fad7-aa7b-4b59-b685-717b1fba722a"
+}

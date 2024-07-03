@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">coursework</string>
+
+    <string name="emoji_plus">➕</string>
+    <string name="channels">Channels</string>
+    <string name="people">People</string>
+    <string name="profile">Profile</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="all_streams">All streams</string>
+    <string name="error">Something went wrong</string>
+    <string name="errorCreatingChannel">Please try again later</string>
+
+    <array name="reactions">
+        <item name="emoji_clown">🤡</item>
+        <item name="emoji_heart">❤</item>
+        <item name="emoji_fire">🔥</item>
+        <item name="emoji_thumbs_up">👍</item>
+        <item name="emoji_party">🎉</item>
+        <item name="emoji_sparkles">✨</item>
+    </array>
+</resources>

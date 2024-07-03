@@ -1,0 +1,488 @@
+{
+  "result": "success",
+  "msg": "",
+  "presences": {
+    "user710539@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1714663618
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1714663618,
+        "pushable": false
+      }
+    },
+    "user709936@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1714756634
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1714756634,
+        "pushable": false
+      }
+    },
+    "user709439@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1714780842
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1714780842,
+        "pushable": false
+      }
+    },
+    "user709286@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1714975021
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1714975021,
+        "pushable": false
+      }
+    },
+    "user709961@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715032558
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715032558,
+        "pushable": false
+      }
+    },
+    "user709036@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715032916
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715032916,
+        "pushable": false
+      }
+    },
+    "user708832@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715063831
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715063831,
+        "pushable": false
+      }
+    },
+    "user708982@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715066875
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715066875,
+        "pushable": false
+      }
+    },
+    "user709571@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715076521
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715076521,
+        "pushable": false
+      }
+    },
+    "user710264@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715094465
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715094465,
+        "pushable": false
+      }
+    },
+    "user709849@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715114141
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715114141,
+        "pushable": false
+      }
+    },
+    "user708820@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715118215
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715118215,
+        "pushable": false
+      }
+    },
+    "user709414@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715119110
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715119110,
+        "pushable": false
+      }
+    },
+    "user709765@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715157045
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715157045,
+        "pushable": false
+      }
+    },
+    "user708835@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715170225
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715170225,
+        "pushable": false
+      }
+    },
+    "user709690@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715187401
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715187401,
+        "pushable": false
+      }
+    },
+    "user709777@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715265669
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715265669,
+        "pushable": false
+      }
+    },
+    "user708831@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715297432
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715297432,
+        "pushable": false
+      }
+    },
+    "user709636@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715359581
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715359581,
+        "pushable": false
+      }
+    },
+    "user709341@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715364267
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715364267,
+        "pushable": false
+      }
+    },
+    "user709379@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715368783
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715368783,
+        "pushable": false
+      }
+    },
+    "user709831@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715375712
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715375712,
+        "pushable": false
+      }
+    },
+    "user708826@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715426631
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715426631,
+        "pushable": false
+      }
+    },
+    "user709174@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715508208
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715508208,
+        "pushable": false
+      }
+    },
+    "user710147@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715540969
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715540969,
+        "pushable": false
+      }
+    },
+    "user708685@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715572868
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715572868,
+        "pushable": false
+      }
+    },
+    "user708884@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715590792
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715590792,
+        "pushable": false
+      }
+    },
+    "user708828@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715610028
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715610028,
+        "pushable": false
+      }
+    },
+    "user708822@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715622444
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715622444,
+        "pushable": false
+      }
+    },
+    "user710247@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715634072
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715634072,
+        "pushable": false
+      }
+    },
+    "user709343@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715636025
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715636025,
+        "pushable": false
+      }
+    },
+    "gleb.gafeev@mail.ru": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715641024
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715641024,
+        "pushable": false
+      }
+    },
+    "user709775@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715641685
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715641685,
+        "pushable": false
+      }
+    },
+    "user708846@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715670750
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715670750,
+        "pushable": false
+      }
+    },
+    "user709699@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715676286
+      },
+      "website": {
+        "client": "website",
+        "status": "active",
+        "timestamp": 1715676286,
+        "pushable": false
+      }
+    },
+    "user708830@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715678638
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715678638,
+        "pushable": false
+      }
+    },
+    "user708827@tinkoff-android-spring-2024.zulipchat.com": {
+      "aggregated": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715678674
+      },
+      "website": {
+        "client": "website",
+        "status": "idle",
+        "timestamp": 1715678674,
+        "pushable": false
+      }
+    }
+  },
+  "server_timestamp": 1715678693.147847
+}

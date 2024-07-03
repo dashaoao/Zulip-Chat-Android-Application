@@ -1,0 +1,33 @@
+{
+  "result": "success",
+  "msg": "",
+  "events": [
+    {
+      "type": "message",
+      "message": {
+        "id": 438944923,
+        "sender_id": 708884,
+        "content": "Test message!",
+        "recipient_id": 1252628,
+        "timestamp": 1715839825,
+        "client": "okhttp",
+        "subject": "testtopic",
+        "topic_links": [],
+        "is_me_message": false,
+        "reactions": [],
+        "submessages": [],
+        "sender_full_name": "Дарья Крендикова",
+        "sender_email": "user708884@tinkoff-android-spring-2024.zulipchat.com",
+        "sender_realm_str": "tinkoff-android-spring-2024",
+        "display_recipient": "general",
+        "type": "stream",
+        "stream_id": 432915,
+        "avatar_url": "https://secure.gravatar.com/avatar/1340a04159bd29911a0e8bd275af6c72?d=identicon&version=1",
+        "content_type": "text/x-markdown"
+      },
+      "flags": [],
+      "id": 0
+    }
+  ],
+  "queue_id": "202c6ec0-7099-4b10-93ef-8a5d0a3cea79"
+}

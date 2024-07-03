@@ -1,0 +1,132 @@
+[versions]
+agp = "8.3.2"
+kotlin = "1.9.0"
+core-ktx = "1.13.1"
+coroutines-core = "1.8.1"
+lifecycle-runtime-ktx = "2.7.0"
+activity-compose = "1.9.0"
+viewmodel-compose = "2.6.1"
+compose-compiler = "1.5.1"
+compose-bom = "2024.05.00"
+appcompat = "1.6.1"
+material = "1.12.0"
+materialIcons = "1.6.7"
+coil-compose = "2.5.0"
+accompanist = "0.35.0-alpha"
+cicerone = "7.1"
+retrofit = "2.11.0"
+okhttp = "4.12.0"
+elmslie = "2.1.1"
+dagger = "2.51.1"
+javax = "1"
+room = "2.6.1"
+ksp = "1.9.21-1.0.15"
+httpclientAndroid = "4.3.5.1"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+kotlinxSerializationJson = "1.6.3"
+kotest = "5.8.1"
+kaspresso = "1.5.5"
+wiremock = "2.27.2"
+hamcrest = "2.2"
+androidx-test = "1.5.0"
+mockito = "5.2.0"
+ui-test = "1.0.5"
+kakaocup = "0.3.0"
+orchestrator = "1.4.2"
+fragment-testing = "1.5.7"
+jetbrainsKotlinJvm = "1.9.0"
+espressoCoreVersion = "3.5.1"
+media3Common = "1.3.1"
+
+[libraries]
+agp = { module = "com.android.tools.build:gradle", version.ref = "agp" }
+kotlin-gradle-plugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
+coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines-core" }
+core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
+lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycle-runtime-ktx" }
+
+activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activity-compose" }
+compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "compose-bom" }
+compose-ui = { group = "androidx.compose.ui", name = "ui" }
+compose-ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
+compose-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
+compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
+compose-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
+compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+accompanist = { group = "com.google.accompanist", name = "accompanist-systemuicontroller", version.ref = "accompanist" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+viewmodel-compose = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-compose", version.ref = "viewmodel-compose" }
+
+coil-compose = { group = "io.coil-kt", name = "coil-compose", version.ref = "coil-compose" }
+cicirone = { group = "com.github.terrakok", name = "cicerone", version.ref = "cicerone" }
+
+retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
+converter-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit" }
+okhttp = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttp" }
+logging-interceptor = { group = "com.squareup.okhttp3", name = "logging-interceptor", version.ref = "okhttp" }
+
+elmslie-core = { group = "com.github.vivid-money.elmslie", name = "elmslie-core", version.ref = "elmslie" }
+elmslie-android = { group = "com.github.vivid-money.elmslie", name = "elmslie-android", version.ref = "elmslie" }
+elmslie-coroutines = { group = "com.github.vivid-money.elmslie", name = "elmslie-coroutines", version.ref = "elmslie" }
+elmslie-compose = { group = "com.github.vivid-money.elmslie", name = "elmslie-compose", version.ref = "elmslie" }
+
+dagger-android = { group = "com.google.dagger", name = "dagger-android", version.ref = "dagger" }
+dagger-compiler = { group = "com.google.dagger", name = "dagger-compiler", version.ref = "dagger" }
+javax = { group = "javax.inject", name = "javax.inject", version.ref = "javax" }
+
+room-runtime = { group = "androidx.room", name = "room-runtime", version.ref = "room" }
+room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = "room" }
+room-compiler = { group = "androidx.room", name = "room-compiler", version.ref = "room" }
+
+androidx-espresso-intents = { module = "androidx.test.espresso:espresso-intents", version.ref = "espressoCore" }
+httpclient-android = { module = "org.apache.httpcomponents:httpclient-android", version.ref = "httpclientAndroid" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+converter-kotlinx-serialization = { module = "com.squareup.retrofit2:converter-kotlinx-serialization", version.ref = "retrofit" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinxSerializationJson" }
+
+mockito-core = { group = "org.mockito", name = "mockito-core", version.ref = "mockito" }
+mockito-inline = { group = "org.mockito", name = "mockito-inline", version.ref = "mockito" }
+mockito-kotlin = { group = "org.mockito.kotlin", name = "mockito-kotlin", version.ref = "mockito" }
+
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-test-rules = { group = "androidx.test", name = "rules", version.ref = "androidx-test" }
+androidx-test-core = { group = "androidx.test", name = "core", version.ref = "androidx-test" }
+androidx-test-runner = { group = "androidx.test", name = "runner", version.ref = "androidx-test" }
+androidx-fragment-testing = { module = "androidx.fragment:fragment-testing", version.ref = "fragment-testing" }
+kotlinx-coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutines-core" }
+
+kaspresso = { group = "com.kaspersky.android-components", name = "kaspresso", version.ref = "kaspresso" }
+kaspresso-compose = { group = "com.kaspersky.android-components", name = "kaspresso-compose-support", version.ref = "kaspresso" }
+kakaocup = { group = "io.github.kakaocup", name = "compose", version.ref = "kakaocup" }
+
+wiremock = { group = "com.github.tomakehurst", name = "wiremock-standalone", version.ref = "wiremock" }
+mockwebserver = { group = "com.squareup.okhttp3", name = "mockwebserver", version.ref = "okhttp" }
+orchestrator = { group = "androidx.test", name = "orchestrator", version.ref = "orchestrator" }
+
+hamcrest = { group = "org.hamcrest", name = "hamcrest", version.ref = "hamcrest" }
+
+ui-test = { group = "androidx.compose.ui", name = "ui-test-junit4", version.ref = "ui-test" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCoreVersion" }
+androidx-media3-common = { group = "androidx.media3", name = "media3-common", version.ref = "media3Common" }
+material-icons = { group = "androidx.compose.material", name = "material-icons-extended", version.ref = "materialIcons" }
+
+
+[bundles]
+elmslie = [
+    "elmslie-core",
+    "elmslie-android",
+    "elmslie-coroutines",
+    "elmslie-compose",
+]
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+kotlinParcelize = { id = "org.jetbrains.kotlin.plugin.parcelize", version.ref = "kotlin" }
+kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+jetbrainsKotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
+androidLibrary = { id = "com.android.library", version.ref = "agp" }

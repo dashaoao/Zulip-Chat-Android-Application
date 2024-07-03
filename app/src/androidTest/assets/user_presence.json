@@ -1,0 +1,14 @@
+{
+  "result": "success",
+  "msg": "",
+  "presence": {
+    "aggregated": {
+      "status": "offline",
+      "timestamp": 1715590792
+    },
+    "website": {
+      "status": "idle",
+      "timestamp": 1715590792
+    }
+  }
+}
