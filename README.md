@@ -15,11 +15,11 @@ Cообщения в приложении разделяются по канал
 - Kaspresso | Wiremock | Junit
 
 ## Фичи:
-- Получение данных из Zulip API
-- Кэширование данных
-- Фичи разделены на модули
-- Ui тесты для экрана чата
-- Unit тесты для бизнес- и ui-логики 
+★ Получение данных из Zulip API<br>
+★ Кэширование данных<br>
+★ Фичи разделены на модули<br>
+★ Ui тесты для экрана чата<br>
+★ Unit тесты для бизнес- и ui-логики 
 
 ## Архитектура
 <img src="https://github.com/dashaoao/Zulip-Chat-Android-Application/assets/113306856/078a82ae-2fac-4e01-9d3c-267ef0d224dc" width="200" align="left" hspace="10">
